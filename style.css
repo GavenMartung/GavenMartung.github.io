@@ -1,7 +1,7 @@
 
 h1 {
+  text-shadow: 1px 1px 1px #ccc;
   font-family: 'Corben', Georgia, Times, serif;
-  color: blue;
   text-align: center;
 }
 
