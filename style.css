@@ -1,21 +1,28 @@
-
+body {
+  background-image: url("https://www.designbolts.com/wp-content/uploads/2012/12/White-bed-sheet-Seamless-Pattern.jpg");
+  background-repeat: repeat;
+}
 h1 {
   text-shadow: 1px 1px 1px #000000;
   font-family: 'Corben', Georgia, Times, serif;
-  text-align: center;
+  text-align: justify;
 }
-
 p {
   font-family: 'Nobile', Helvetica, Arial, sans-serif;
-  text-align: center;
+  text-align: justify;
+}
+
+p2 {
+  font-family: 'Nobile', Helvetica, Arial, sans-serif;
+  text-align: justify;
 }
 
 h2 {
  
-  text-align: center;
+  text-align: justify;
 }
 
 h1 {
  
-  text-align: center;
+  text-align: justify;
 }
